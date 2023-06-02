@@ -1,6 +1,6 @@
 # INTERNSHIP-Details
 * Internship at **National Institute of Plant Genome Research**, Delhi.
-* intership head: Peter Murray-Rust, Reader Emeritus Cambridge, UK
+* intership head: Peter Murray-Rust, Reader Emeritus, Cambridge, UK
 * internship supervisor: Dr Gitanjali Yadav, Staff scientist, NIPGR, Delhi.
 
 # WORK
