@@ -1,10 +1,12 @@
 # INTERNSHIP-Details
 Internship at **National Institute of Plant Genome Research**, Delhi.
-intership head: Peter Murray-Rust, Reader Emeritus Cambridge, UK.
+
+intership head: Peter Murray-Rust, Reader Emeritus Cambridge, UK
+
 internship supervisor: Dr Gitanjali Yadav, Staff scientist, NIPGR, Delhi.
 
 # WORK
-**Climate knowledge extraction using text and data mining an IPCC chapter case study**
+**Climate knowledge extraction using text and data mining an IPCC chapter case study** /n
 IPCC chapter: **Chapter 15 "Finance and Investment"**
 Literature Research: World finances and investments for **mitigation** and **adaptation**
 Case study: Finance and investment in **INDIA**, Sectoral, thematic and instrumental split.
