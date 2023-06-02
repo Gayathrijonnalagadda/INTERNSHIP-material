@@ -26,6 +26,7 @@
 ## OTHER PYTHON TOOLS LIKE
 * Gensim, RAKE and YAKE: **Keyword extraction** (code by Karthikeyan V and Ananya Singha, https://github.com/petermr/semanticClimate/tree/main/keyword_extraction/code)
 * Automated annotations in HTML file (no specific tool): code developed by Ananya Singha (software developer, https://github.com/ananyas168/)
+* **tableau softwear** for statistical analysis and vislualisation (https://public.tableau.com/app/profile/venkata.sri.satya.gayathri.jonnalagadda)
 
 # EXPLORED OPEN AI 
 * word clouds generator
