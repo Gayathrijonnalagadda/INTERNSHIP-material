@@ -1,5 +1,5 @@
 # INTERNSHIP-Details
-* Internship at **National Institute of Plant Genome Research**, Delhi.
+* Internship at **National Institute of Plant Genome Research**, Delhi from January 2023 to May 2023
 * intership head: Peter Murray-Rust, Reader Emeritus, Cambridge, UK
 * internship supervisor: Dr Gitanjali Yadav, Staff scientist, NIPGR, Delhi.
 
